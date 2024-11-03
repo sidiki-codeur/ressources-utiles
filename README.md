@@ -4,7 +4,7 @@ Bienvenue sur mon dépôt dédié au partage de **ressources de développement**
 
 ## 📖 Table des Matières
 
-- [� Partage de Ressources Développement](#-partage-de-ressources-développement)
+- [📚 Partage de Ressources Développement](#-partage-de-ressources-développement)
   - [📖 Table des Matières](#-table-des-matières)
   - [👨‍💻 Langages de Programmation](#-langages-de-programmation)
     - [Gratuites](#gratuites)
@@ -220,7 +220,7 @@ Ce dépôt est une collection organisée de ressources de développement pour ai
 
 Pour toute question ou suggestion, vous pouvez me contacter :
 
-- **Email** : [osaadoukou@gmail.com](mailto:osaadoukou@gmail.com)
+- **Email** : [sidikicodeur@gmail.com](mailto:sidikicodeur@gmail.com)
 - **GitHub** : [sidiki-codeur](https://github.com/sidiki-codeur)
 
 ---
